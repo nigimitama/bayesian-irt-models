@@ -1,0 +1,16 @@
+[project]
+name = "bayesian-irt-models"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "nest-asyncio>=1.6.0",
+    "pymc>=5.28.4",
+    "pystan>=3.10.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]
