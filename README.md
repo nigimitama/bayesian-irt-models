@@ -9,6 +9,8 @@ This repository includes sample codes using following packages:
 
 This project uses the [uv](https://docs.astral.sh/uv/) package.
 
+To start the JupyterLab notebook editor, run the following command:
+
 ```sh
 uv run --with jupyter jupyter lab
 ```

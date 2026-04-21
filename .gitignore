@@ -1,0 +1,4 @@
+__pycahce__
+.ipynb_checkpoints
+*.pyc
+build
